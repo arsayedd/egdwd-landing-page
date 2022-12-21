@@ -1,6 +1,6 @@
 # Landing Page Project
 
-The project is about creating a responsive page, with a responsive nav-bar
+The project is about creating a responsive page, with a responsive nav-bar you can check it there https://arsayedd.github.io/egdwd-landing-page/
  
 ### List of files & folders included in the project
 
