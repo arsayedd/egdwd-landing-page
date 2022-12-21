@@ -101,5 +101,7 @@ buildNav();
 document.addEventListener('DOMContentLoaded',activateSection);
 document.addEventListener('scroll',activateSection);
 // Scroll to section on click
+// Set sections as active
+
 
 
